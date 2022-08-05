@@ -1,4 +1,4 @@
-# SDET-Project
+# MUSIC Algorithm for Direction of Arrival Estimation of Multiple Sources
 
 ## MUSIC Algorithm for Direction of Arrival Estimation of Multiple Sources
 
