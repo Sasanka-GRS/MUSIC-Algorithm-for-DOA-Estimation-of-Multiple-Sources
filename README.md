@@ -1,6 +1,6 @@
 # SDET-Project
 
-## MUSIC Algorithm for Direction of ArrivalEstimation of Multiple Sources
+## MUSIC Algorithm for Direction of Arrival Estimation of Multiple Sources
 
 Processing   the   signals   received   on   an   array   ofsensors   for   the   location   of   the   source   is   of   great   interest considering the general physical signal phenomena. The general problem considers sensors with arbitrary locations and arbitrary directional  characteristics  (gain/phase/polarization)  in  a  noise environment  of  arbitrary  covariance  matrix. A   description   is   given   of   the   multiple   signal   classification(MUSIC)   algorithm,   which   provides   asymptotically   unbiasedestimates   of   
 
